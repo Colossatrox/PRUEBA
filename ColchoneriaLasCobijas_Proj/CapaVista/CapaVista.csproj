@@ -78,6 +78,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>crpLibroMayor.rpt</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimientos\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\frmArea.cs">
       <SubType>Form</SubType>
     </Compile>
