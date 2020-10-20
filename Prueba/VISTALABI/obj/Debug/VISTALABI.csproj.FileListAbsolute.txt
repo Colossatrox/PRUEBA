@@ -7,3 +7,12 @@ C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.Genera
 C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.CoreCompileInputs.cache
 C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.exe
 C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.pdb
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\bin\Debug\VISTALABI.exe.config
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\bin\Debug\VISTALABI.exe
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\bin\Debug\VISTALABI.pdb
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.csprojAssemblyReference.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.Properties.Resources.resources
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.GenerateResource.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.CoreCompileInputs.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.exe
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\VISTALABI\obj\Debug\VISTALABI.pdb
