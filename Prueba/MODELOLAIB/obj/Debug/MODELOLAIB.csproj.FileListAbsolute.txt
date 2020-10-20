@@ -1,0 +1,9 @@
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\bin\Debug\MODELOLAIB.exe.config
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\bin\Debug\MODELOLAIB.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\bin\Debug\MODELOLAIB.pdb
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.Properties.Resources.resources
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\MODELOLAIB\obj\Debug\MODELOLAIB.pdb

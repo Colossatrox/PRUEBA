@@ -1,0 +1,9 @@
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\bin\Debug\CONTROLADORLAIB.exe.config
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\bin\Debug\CONTROLADORLAIB.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\bin\Debug\CONTROLADORLAIB.pdb
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.Properties.Resources.resources
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADORLAIB\obj\Debug\CONTROLADORLAIB.pdb

@@ -1,0 +1,9 @@
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\bin\Debug\Capavista.exe.config
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\bin\Debug\Capavista.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\bin\Debug\Capavista.pdb
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.Properties.Resources.resources
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\Capavista\obj\Debug\Capavista.pdb

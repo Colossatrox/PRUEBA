@@ -1,0 +1,9 @@
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.exe.config
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.Properties.Resources.resources
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.pdb

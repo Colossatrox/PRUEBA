@@ -1,0 +1,9 @@
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\bin\Debug\VISTALABI.exe.config
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\bin\Debug\VISTALABI.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\bin\Debug\VISTALABI.pdb
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.Properties.Resources.resources
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.exe
+C:\Users\bryan\Desktop\PRUEBA\Prueba\VISTALABI\obj\Debug\VISTALABI.pdb
