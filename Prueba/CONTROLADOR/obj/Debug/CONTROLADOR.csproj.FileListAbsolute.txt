@@ -7,3 +7,12 @@ C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.Ge
 C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
 C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.exe
 C:\Users\bryan\Desktop\PRUEBA\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.exe.config
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.exe
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csprojAssemblyReference.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.Properties.Resources.resources
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.GenerateResource.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.exe
+D:\caanc\Documents\GitHub\PRUEBA-1\Prueba\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
