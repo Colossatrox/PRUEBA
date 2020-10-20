@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mantenimientos\AmargadoBasura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\AmargadoBasura.Designer.cs">
+      <DependentUpon>AmargadoBasura.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\crpEstadoFinancieroBalance.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
